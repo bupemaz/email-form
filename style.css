@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+}
+
+/*  form container       */
+.email-form {
+  margin: 20px 300px 0px 300px;
+}
+
+/*  form fields  */
+.form-field {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding-bottom: 10px;
+}
+
+/*  text-area height     */
+.message {
+  height: 150px;
+}
